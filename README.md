@@ -26,6 +26,9 @@ In Exercise 4, you'll perform a comparison between nonlinear state estimation me
 
 Exercise 5 involves designing and implementing a multi-classifier classification system. It includes tasks related to generating data sets, splitting data, evaluating individual classifiers, conducting repeated experiments, fusing classifier outputs, and analyzing the impact of feature space dimensionality on classification performance.
 
+### Project: Utilizing Data Fusion Techniques in a Multi-Classifier System for Natural Language Processing on Big Data within the Hadoop Framework.
+The project's core focus is on text classification and leveraging distributed data processing techniques offered by Hadoop. It explores different fusion methods to combine the outputs of various models. The results demonstrate the effectiveness of these approaches in handling big data and natural language processing tasks.
+
 ## How to Use
 
 1. Clone this repository to your local machine using `git clone`.
@@ -255,8 +258,23 @@ Design and implement a multi-classifier classification system employing five cla
 - Use scikit-learn package if desired.
 - An example: In Matlab, consider a 2-dimensional space with two equiprobable classes, Gaussian distributions with means m1 = [0, 0]T and m2 = [1.2, 1.2]T, and covariance matrices S1 = S2 = 0.2I.
 
+### Project: Utilizing Data Fusion Techniques in a Multi-Classifier System for Natural Language Processing on Big Data within the Hadoop Framework
+This project focuses on the application of Natural Language Processing (NLP) techniques to handle Big Data. It explores various data fusion approaches in the context of a Multi-Classifier Fusion System based on the Hadoop framework. The main objectives and components of the project include:
 
+#### N-grams Model: 
+Implementing and studying N-grams, which are statistical models that predict the next word in a text based on the previous words.
 
+#### Naïve Bayes Algorithm: 
+Investigating the role of the Naïve Bayes algorithm in natural language processing for classification tasks.
+
+#### Hadoop Integration: 
+Utilizing the Hadoop Distributed File System (HDFS) and MapReduce algorithm to efficiently process and analyze large volumes of textual data.
+
+#### Multi-Classifier Fusion: 
+Creating a multi-classifier fusion system that combines the results of different models, including N-grams and Naïve Bayes, to improve accuracy.
+
+#### Poet Recognition: 
+Developing a system capable of recognizing the poet based on a given stanza of poetry. The system achieves a maximum accuracy of approximately 82.5% by analyzing the words in the stanza.
 
 
 
