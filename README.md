@@ -1,6 +1,6 @@
 # Information Fusion Exercises Repository
 
-Welcome to the Information Fusion Exercises Repository! This repository contains a series of exercises related to information fusion, covering various topics and techniques. Whether you are a student or a professional, these exercises will help you gain insights into data estimation, fusion methods, classification, and more.
+Welcome to the Information Fusion Exercises Repository! This repository contains a series of exercises related to information fusion, covering various topics and techniques. Whether you are a student or a professional, these exercises will help you gain insights into data estimation, fusion methods, classification, and more.  
 
 ## Overview
 
